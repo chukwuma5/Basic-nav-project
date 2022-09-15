@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+html{
+    font-size: 16px;
+    overflow: hidden;
+}
+body{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../img/three.jpg") center/cover no-repeat;
+    font-family: sans-serif;
+}
+.main-nav{
+    text-align: center;
+    font-size: 1em;
+    background: rgb(255, 102, 6);
+}
+.main-nav>ul{
+    font-size: 1em;
+    padding: 0.9em 0;
+}
+.main-nav>ul li{
+    display: inline-block;
+    margin: 0 2.5rem;
+}
+.main-nav>ul li>a{
+    color: white;
+    font-size: 1em;
+    padding: 0.6em 0.6em;
+    display: inline-block;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.active,.main-nav>ul li>a:hover{
+    background: red;
+}
+.main-nav-1{
+    background: red;
+    position: absolute;
+    margin-top: 0.1em;
+    text-align: start;
+}
+.main-nav-1>ul li{
+    background: red;
+    display: none;
+}
+.main-nav>ul li:hover .main-nav-1>ul li{
+    display: block;
+    width: 100px;
+    margin-top: 0.1em;
+    padding: 0.5em 0;
+}
+.main-nav-1>ul li>a:hover {
+    background: rgb(239, 122, 122);
+}
+span{
+    display: block;
+     border: 1px dotted white;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+}
+@media (max-width:780px){
+.main-nav-2 {
+        margin-left: -1.2rem;
+    }
+.main-nav-1 {
+    margin-left: -0.5rem;
+}
+}
+@media (min-width:850px) {
+    .main-nav-2 {
+        display: none;
+    }
+
+    .hover-me:hover .main-nav-2 {
+        position: absolute;
+        display: block;
+        background: red;
+        margin-left: 8.9rem;
+        margin-top: -2.9rem;
+    }
+
+}
+
+
+
