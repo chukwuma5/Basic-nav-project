@@ -83,6 +83,8 @@ Media queries is very important to practise building easy and responsive layout 
 
 -For the images, you can use 2.[https://pixabay.com/]
 
+-for the image editing, you can use[https://photoscape.org]
+
 ## Licsense
 
 This work is under [MIT] liscence. It's highly free and opensource to anyone.
