@@ -1,6 +1,6 @@
-# CREATION OF LANDING PAGE 3
+# COMPLEX NAVBAR PRACTICE
 
-## A WEB DESIGN LANDING PAGE
+## AN AGENCY LANDING PAGE
 
 ## Welcome back!!!
 
@@ -17,7 +17,7 @@ This work is created for the purpose of practising and revising (HTML & CSS) wit
 ##An Example##
 ##Collective collections##
 
-<img src="./img/nav2.png">
+<img src="./img/nav.gif">
 
 ##process##
 THIS FILE IS FOR THE PRACTISE OF HTML(DEEPER)
@@ -51,7 +51,7 @@ THIS FILE IS FOR THE PRACTISE OF CSS
 
 ## My Challanges and lessons
 
-Learnt how to create well scalable pictures with background properties, used my fontsizes well, Used my pixels for nice elements that will remain permanent in size as the work goes on. HTML was fun working with while my css was ok but tidious and fun, got to know the right and best pseudo classes to use.
+Learnt how to create and optimize scalable pictures with background properties, used my fontsizes well, Used my pixels for nice elements that will remain permanent in size as the work goes on. HTML was fun working with while my css was ok but tidious and fun, got to know the right and best pseudo classes to use.
 
 ## Installations
 
@@ -59,9 +59,9 @@ Learnt how to create well scalable pictures with background properties, used my 
 
 -For those who want to check the work from the site, click here [https://chukwuma5.github.io/Basic-nav-project/], to view Thank you once again.
 
--For those who want to view the first file through drop box, click here [https://www.dropbox.com/sh/kh84wdqyrcxpvlx/AADxmilZuKAkwwKFnJ6-28ixa?dl=0], to view Thank you once again.
+-For those who want to view the file through drop box, click here [https://www.dropbox.com/sh/kh84wdqyrcxpvlx/AADxmilZuKAkwwKFnJ6-28ixa?dl=0], to view Thank you once again.
 
--For those who want to view the second file through git-hub, click here [https://github.com/chukwuma5/Basic-nav-project], to view Thank you once again.
+-For those who want to view the file through git-hub, click here [https://github.com/chukwuma5/Basic-nav-project], to view Thank you once again.
 
 ## Best syntax Used
 
